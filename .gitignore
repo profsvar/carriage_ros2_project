@@ -1,0 +1,23 @@
+# ROS2 folders
+build/
+install/
+log/
+
+# Python folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+
+# VS Code folders
+.vscode/
+
+# Git LFS
+*.lfs.*
+
+# OS files
+.DS_Store
+Thumbs.db
